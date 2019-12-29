@@ -1,7 +1,7 @@
 # CurrencyExchange_CLI
 A small Node.js CLI app - Currency Exchange Rate Calculator
 
-##About the App:
+## About the App:
 * This is a small Node.js Command Line Interface APP which will get currrent foreign exchange rates from API called "Foreign Exchange Rate API" in JSON format.
 * API URL : [https://exchangeratesapi.io/].
 * The app behaves based on the user input.
